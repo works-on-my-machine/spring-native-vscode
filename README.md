@@ -1,1 +1,1 @@
-# spring-boot-vscode
+# Spring Native project template
